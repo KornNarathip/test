@@ -1,7 +1,7 @@
 
 
 *{
-   
+    font-family: 'Noto Sans Thai', sans-serif;
 }
 
 .carousel-item{
@@ -9,64 +9,17 @@
 }
 
 .carousel-image-1{
-    background-image: url('images/ig1.png');
+    background-image: url('images/im1.JPG');
     background-size: cover;
 }
 
 .carousel-image-2{
-    background-image: url('images/Kornxi.png');
+    background-image: url('images/im2.jpg');
     background-size: cover;
 }
 
 .carousel-image-3{
-    background-image: url('images/Kornxi.png');
+    background-image: url('images/im4.jpg');
     background-size: cover;
-}
-
-#about{
-    min-height: 200px;
-    position: relative;
-    background-image: url("images/Kornxi.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-    color:#fff;
-    background-attachment: fixed;
-}
-.dark-overlay{
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: rgba(0, 0, 0, 0.7);
-    width: 100%;
-    height: 100%;
-}
-
-
-.header1 {
-    background: rgba(3, 32, 21, 0.726) url(../img/bg.jpg) no-repeat;
-    background-position: center center;
-    background-size: cover;
-    max-width: 100%;
-    height: 160px;
-}
-
-.header_area {
-    padding-top: 30px;
-    text-align: center;
-    color: #fff;
-    margin: 0 auto;
-    width: 660px;
-}
-.header_area h1 {
-    margin: 0;
-    font-size: 40px;
-    font-weight: normal;
-}
-.header_area p {
-    margin: 0 auto;
-    margin-top: 15px;
-    width: 480px;
-    font-size: 16px;
 }
 
